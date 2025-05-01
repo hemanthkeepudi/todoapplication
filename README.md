@@ -1,7 +1,7 @@
 # todoproject
 # 📝 Todo Application - Spring Boot
 
-A simple yet powerful Todo application built with **Spring Boot**, featuring user authentication and CRUD operations for managing tasks. This project demonstrates the core concepts of Spring Boot, Spring Security, Spring Data JPA, and Thymeleaf.
+A simple yet powerful Todo application built with **Spring Boot**(Server Side Application), featuring user authentication and CRUD operations for managing tasks. This project demonstrates the core concepts of Spring Boot, Spring Security, Spring Data JPA, and Thymeleaf.
 
 ## 🚀 Features
 
