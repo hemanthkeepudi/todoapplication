@@ -9,7 +9,6 @@ A simple yet powerful Todo application built with **Spring Boot**(Server Side Ap
 - 🎨 Clean and intuitive UI using Thymeleaf
 - 📄 Persistent data storage with JPA & Hibernate
 - 🌐 Navigation flow:  
-  - `welcome.html` – Landing page  
   - `index.html` – Todo dashboard
 
 ## 🛠️ Tech Stack
