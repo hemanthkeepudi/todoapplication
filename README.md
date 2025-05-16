@@ -19,8 +19,6 @@ A simple yet powerful Todo application built with **Spring Boot**(Server Side Ap
 - **Build Tool:** Maven
 
 
-Certainly! Here's a clean and structured **"How to Run the Application"** section that you can directly add to your `README.md` file on GitHub:
-
 ---
 
 ## 🚀 How to Run the Application
@@ -113,8 +111,7 @@ You can update these credentials in the `application.properties` file.
 
 ---
 
-Let me know if you’d like to add a **"Contributing"**, **"Deployment"**, or **"Technologies Used"** section as well.
-
+Here's how the landing page look like:
 
 ![image](https://github.com/user-attachments/assets/b5d9ac3e-1c70-49a4-989c-d84ad96a0555)
 
