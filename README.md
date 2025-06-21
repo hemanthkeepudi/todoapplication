@@ -1,17 +1,17 @@
 # todoproject
-# 📝 Todo Application - Spring Boot
+#  Todo Application - Spring Boot
 
 A simple yet powerful Todo application built with **Spring Boot**(Server Side Application), featuring user authentication and CRUD operations for managing tasks. This project demonstrates the core concepts of Spring Boot, Spring Security, Spring Data JPA, and Thymeleaf.
 
-## 🚀 Features
+##  Features
 
-- 🧾 Create, Read, Update, Delete (CRUD) Todo tasks
-- 🎨 Clean and intuitive UI using Thymeleaf
-- 📄 Persistent data storage with JPA & Hibernate
-- 🌐 Navigation flow:  
+-  Create, Read, Update, Delete (CRUD) Todo tasks
+-  Clean and intuitive UI using Thymeleaf
+-  Persistent data storage with JPA & Hibernate
+-  Navigation flow:  
   - `index.html` – Todo dashboard
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Spring Boot, Spring Security, Spring Data JPA, Hibernate
 - **Frontend:** Thymeleaf, HTML/CSS
@@ -21,11 +21,11 @@ A simple yet powerful Todo application built with **Spring Boot**(Server Side Ap
 
 ---
 
-## 🚀 How to Run the Application
+##  How to Run the Application
 
 Follow these steps to clone, configure, and run the Todo Application.
 
-### ✅ Prerequisites
+###  Prerequisites
 
 Make sure the following are installed on your system:
 
@@ -35,7 +35,7 @@ Make sure the following are installed on your system:
 * MySQL 
 ---
 
-### 📥 Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/hemanthkeepudi/todoapplication.git
@@ -44,7 +44,7 @@ cd todoapplication
 
 ---
 
-### ⚙️ Configure the Database
+###  Configure the Database
 
 #### Option 1: Use H2 (Default - In-Memory Database)
 
@@ -72,7 +72,7 @@ Replace `your_username` and `your_password` with your actual MySQL credentials.
 
 ---
 
-### ▶️ Run the Application
+###  Run the Application
 
 Use the following command to start the application:
 
@@ -90,7 +90,7 @@ mvnw.cmd spring-boot:run
 
 ---
 
-### 🌐 Access the Application
+###  Access the Application
 
 Once the app is running, open your browser and go to:
 
@@ -100,7 +100,7 @@ http://localhost:8080
 
 ---
 
-### 🔐 Default Login Credentials
+###  Default Login Credentials
 
 The application uses Spring Security with the following default credentials:
 
